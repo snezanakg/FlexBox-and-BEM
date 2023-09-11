@@ -52,17 +52,29 @@ main{
     justify-content: space-between;
     bottom: 10px;
     width: 80%;
-    height:40px ;
-    border: none;
+    height: 110px;
+    border-color: black;
     background-color: #F48C06;
 
 }
 .btn Accept {
+    position: absolute;
     background-color: #F48C06;
+    justify-content: space-between;
+    bottom: 10px;
+    width: 80%;
+    height: 143px; 
+    border-color: black;
 
 }
 .btn Decline {
+    position: absolute;
     background-color: #F48C06;
+    justify-content: space-between;
+    bottom: 10px;
+    width: 80%;
+    height: 110px;
+    border-color: black;
 }
 
 
