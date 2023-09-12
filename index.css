@@ -130,13 +130,69 @@ body{
     flex-shrink: 0;
     border-radius: 8px;
     background:#F48C06;
-     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     position: relative;
     display: flex;
     margin-left: 20px;
     margin-bottom: 20px;
 
 }
+.cardone{
+    width: 78px;
+    height: 78px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #9D0208;
+    box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.cardtwo{
+    width: 78px;
+    height: 78px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #9D0208;
+    box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.cardthree{
+    width: 78px;
+    height: 78px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #9D0208;
+    box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.rectangulecontainer4{
+    justify-content: right;
+    width: 468px;
+    height: 160px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background:#F48C06;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    position: relative;
+    display: flex;
+    margin-left: 20px;
+    margin-bottom: 20px;
+
+
+}
+.cardone{
+    
+}
+
+
 
 
 
