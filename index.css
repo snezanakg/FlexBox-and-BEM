@@ -9,11 +9,11 @@ body{
     display: flex;
     flex-direction: flex;
     align-items: center;
-    justify-content: center;
+    justify-content:center;
 
 }
 .rectanglecontainer1{
-    justify-content:left;
+    justify-content:flex-start;
     width: 468px;
     height: 160px;
     flex-shrink: 0;
@@ -71,7 +71,7 @@ body{
 
 }
 .rectanglecontainer2{
-    justify-content: center;
+    justify-content:flex-end;
     width: 468px;
     height: 160px;
     flex-shrink: 0;
@@ -124,7 +124,7 @@ body{
     
 }
 .rectanglecontainer3{
-    justify-content: right;
+    justify-content: flex-start;
     width: 468px;
     height: 160px;
     flex-shrink: 0;
@@ -174,7 +174,7 @@ body{
     margin-top: 20px;
 }
 .rectanglecontainer4{
-    justify-content: space-around;
+    justify-content:flex-end;
     width: 468px;
     height: 160px;
     flex-shrink: 0;
@@ -228,7 +228,7 @@ margin-right: 20px;
 margin-top: 20px;
 }
 .rectanglecontainer5{
-    justify-content: space-between;
+    justify-content:flex-start;
     width: 468px;
     height: 160px;
     flex-shrink: 0;
@@ -275,7 +275,7 @@ margin-top: 20px;
     margin-top: 20px;
 }
 .rectanglecontainer6{
-    justify-content: stretch;
+    justify-content:flex-end;
     width: 468px;
     height: 160px;
     flex-shrink: 0;
