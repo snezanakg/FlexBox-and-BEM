@@ -5,7 +5,7 @@ body{
 .flexBoxSQUERS{
     width: 1125px;
     height: 690px;
-    background: #370617;
+    background-color: #370617;
     display:flex;
     flex-direction: flex;
     align-items: center;
@@ -19,7 +19,7 @@ body{
     height: 160px;
     flex-shrink: 0;
     border-radius: 8px;
-    background:#F48C06;
+    background-color:#F48C06;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     display: flex;
     margin-left: 20px;
@@ -33,7 +33,7 @@ body{
     height: 78px;
     flex-shrink: 0;
     border-radius: 4px;
-    background: #9D0208;
+    background-color: #9D0208;
     margin-top: 20px;
     margin-bottom: 20px;
     margin-left: 20px;
@@ -48,7 +48,7 @@ body{
     height: 78px;
     flex-shrink: 0;
     border-radius: 4px;
-    background: #9D0208;
+    background-color: #9D0208;
     margin-bottom: 20px;
     margin-left: 20px;
     margin-right: 20px;
@@ -61,7 +61,7 @@ body{
     height: 78px;
     flex-shrink: 0;
     border-radius: 4px;
-    background: #9D0208;
+    background-color: #9D0208;
     margin-bottom: 20px;
     margin-left: 20px;
     margin-right: 20px;
@@ -77,7 +77,7 @@ body{
     height: 160px;
     flex-shrink: 0;
     border-radius: 8px;
-    background:#F48C06;
+    background-color:#F48C06;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     display: flex;
     margin-left: 20px;
@@ -92,7 +92,7 @@ body{
     height: 160px;
     flex-shrink: 0;
     border-radius: 8px;
-    background:#F48C06;
+    background-color:#F48C06;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     display: flex;
     margin-left: 20px;
@@ -107,7 +107,7 @@ body{
     height: 160px;
     flex-shrink: 0;
     border-radius: 8px;
-    background:#F48C06;
+    background-color:#F48C06;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     display: flex;
     margin-left: 20px;
@@ -123,7 +123,7 @@ body{
     height: 160px;
     flex-shrink: 0;
     border-radius: 8px;
-    background:#F48C06;
+    background-color:#F48C06;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     display: flex;
     margin-left: 20px;
@@ -139,7 +139,7 @@ body{
     height: 160px;
     flex-shrink: 0;
     border-radius: 8px;
-    background:#F48C06;
+    background-color:#F48C06;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     display: flex;
     margin-left: 20px;
