@@ -3,17 +3,17 @@ body{
     margin: 20px;
 }
 .flexBoxSQUERS{
-    
+    display: flex;
     height: 100vh;
     background-color: #370617;
-    display:flex;
+    display:flex;flex-wrap: wrap;
     flex-direction: flex;
     align-items: center;
     justify-content:center;
 
 }
 .rectanglecontainer1{
-    align-items: flex-start;
+    align-items: flex;
     justify-content:flex-start;
     width: 468px;
     height: 160px;
@@ -71,10 +71,10 @@ body{
 
 }
 .rectanglecontainer2{
-    align-items: flex-end;
+    align-items:stretch;
     justify-content:flex-end;
     width: 468px;
-    height: 160px;
+    min-height: 78px;
     flex-shrink: 0;
     border-radius: 8px;
     background-color:#F48C06;
@@ -86,8 +86,8 @@ body{
 }
 
 .rectanglecontainer3{
-    align-items: flex-start;
-    justify-content: flex-start;
+    align-items:center;
+    justify-content:flex;
     width: 468px;
     height: 160px;
     flex-shrink: 0;
@@ -101,8 +101,8 @@ body{
 }
 
 .rectanglecontainer4{
-    align-items: flex-end;
-    justify-content:flex-end;
+    align-items: flex-start;
+    justify-content:space-between;
     width: 468px;
     height: 160px;
     flex-shrink: 0;
@@ -117,7 +117,34 @@ body{
 }
 
 .rectanglecontainer5{
-    align-items: flex-start;
+    align-items:baseline;
+    justify-content:flex-start;
+    width: 468px;
+    height: 160px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background-color:#F48C06;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    display: flex;
+    margin-left: 20px;
+    margin-bottom: 20px;
+   }
+
+.text{
+        color: #FFF;
+        font-size: 12px;
+        font-family: Roboto;
+        font-weight: 400;
+        line-height: normal;
+        width: 54px;
+        height: 14px;
+        
+    }
+  
+
+   
+.rectanglecontainer6{
+    align-items:center;
     justify-content:flex-start;
     width: 468px;
     height: 160px;
@@ -129,25 +156,14 @@ body{
     margin-left: 20px;
     margin-bottom: 20px;
 
-  
-}
-   
-.rectanglecontainer6{
-    align-items: flex-end;
-    justify-content:flex-end;
-    width: 468px;
-    height: 160px;
-    flex-shrink: 0;
-    border-radius: 8px;
-    background-color:#F48C06;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-    display: flex;
-    margin-left: 20px;
-    margin-bottom: 20px;
-
 }
 
+    
 
+.card-long {
+flex-grow:2; 
+
+}
 
 
 
