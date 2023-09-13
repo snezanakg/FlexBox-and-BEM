@@ -6,13 +6,14 @@ body{
     width: 1125px;
     height: 690px;
     background: #370617;
-    display: flex;
+    display:flex;
     flex-direction: flex;
     align-items: center;
     justify-content:center;
 
 }
 .rectanglecontainer1{
+    align-items: flex-start;
     justify-content:flex-start;
     width: 468px;
     height: 160px;
@@ -70,6 +71,7 @@ body{
 
 }
 .rectanglecontainer2{
+    align-items: flex-end;
     justify-content:flex-end;
     width: 468px;
     height: 160px;
@@ -122,6 +124,7 @@ body{
     
 }
 .rectanglecontainer3{
+    align-items: flex-start;
     justify-content: flex-start;
     width: 468px;
     height: 160px;
@@ -171,6 +174,7 @@ body{
     margin-top: 20px;
 }
 .rectanglecontainer4{
+    align-items: flex-end;
     justify-content:flex-end;
     width: 468px;
     height: 160px;
@@ -224,6 +228,7 @@ margin-right: 20px;
 margin-top: 20px;
 }
 .rectanglecontainer5{
+    align-items: flex-start;
     justify-content:flex-start;
     width: 468px;
     height: 160px;
@@ -270,6 +275,7 @@ margin-top: 20px;
     margin-top: 20px;
 }
 .rectanglecontainer6{
+    align-items: flex-end;
     justify-content:flex-end;
     width: 468px;
     height: 160px;
