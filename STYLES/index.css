@@ -6,7 +6,8 @@ body{
     display: flex;
     height: 100vh;
     background-color: #370617;
-    display:flex;flex-wrap-wrap;
+    display:flex;
+    flex-wrap: wrap;
     flex-direction: flex;
     align-items: center;
     justify-content:center;
